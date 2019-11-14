@@ -1,0 +1,5 @@
+ applications:
+ - name: dwape
+   memory: 256M
+   host: dwape
+   buildpack: staticfile_buildpack
